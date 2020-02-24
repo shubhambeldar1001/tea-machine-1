@@ -1,2 +1,2 @@
 # tea-machine
-sample repositiry
+-take a bowl
